@@ -1,0 +1,346 @@
+test_1 i e phue hu penn pe peh
+test_10 bi kok kah Iran ma u kiong tong li ik pi lu Iran tsi tshi e Shia bin ping
+test_100 lai tsiah pai tui honnh
+test_101 long hoo se hong mui the khuann tso si sin tsing khuan tui gua tsing tshik khah tok lip tsik kik e piau hian
+test_102 lau hiann ti ah puah lo to puah loh khi ah li m thang tua se siann a
+test_103 tan si
+test_104 sat bak a tu liau kau tshi i gua koh u siann mih tik sik
+test_105 i kiann kah bin sik peh sut sut
+test_106 i ui tioh phio bang e king lian kong ong po tshuan kah sih ping kui si thau tsit tshut tai uan lang hit be tua ki phinn tian iann
+test_107 tsai tiunn e hai mi a long si huai thai ko nua lo senn thau huat bue khue khah phuah siunn uai ko tshi tshuah khuann tioh ua beh khi ke bo phue
+test_108 i tshiann gua bo nng pai to huan hue ah
+test_109 Saudi tshit tsap kau hue sin kok ong Samn kin ni tsiann gueh tsiah ting ki tse ui
+test_11 ling in ing Cin ing tsi si te si liau khoo tso tshut lai e gi su tah phue kuan su tin GD tsia e gi tai bing su tah thuan tsu ma loh pai tui tsing thau tsing thau tsing pe ti tsu tsi tsia thau phue long Pai long tok pau tsing t thau tsing pau tsin tsiann thau tsing
+test_110 tiong kok m khing hoo bi kok P tshit ian kiu ke tse e penn tok sam phu luh
+test_111 thng siunn tinn gua bo se ji tsiah tioh li e khoo
+test_112 sin tik tshi tsit ui goo hue tsa poo gin a in ui ui tng iam phiak tshut tua tng phah khang king kue kin kip e tshiu sut tsiah kue bin
+test_113 si an tsuann in e tang khuann bian tsinn e gun be iong tsit lah
+test_114 a peh si gua
+test_115 ka gua tse long tse tsiah khui
+test_116 ooh m
+test_117 ho tshiann
+test_118 tng tang sin the huat tshut sin sit kong i i king siunn pah li suat kong m koh kian nng koh tsin sui
+test_119 puann koh gua gue ah thau ke niu si tai pat lai e i tso lang tsin ho
+test_12 lan tsit tsun khi lok kang ai nng tiam puann tsing
+test_120 Ikeh ia e mih kiann kai ho tau bian gua ku to tau e ho
+test_121 tsan ne kam moo a pai thok li the i tshing ka
+test_122 siunn khuann mai kong khuann mai be a kah iunn a tshah ti to
+test_123 ting ki si kan kau ah tak ke kin khi hau ki sik tsun pi ting ki tsin tsing ai sing tshuan ho hoo tsiau kah ting ki tsing tsiau sun si pai tui kiam tsa liau tsiah lai ting ki
+test_124 a an pi a huat ke kai khiam
+test_125 li na koh kiam ji sann tsap hue ah honnh gua tsiah phau hoo li tsiah
+test_126 lan hun sann tsiong tsing hing lai tho lun
+test_127 tioh a thai u kho ling tsiah bian tsinn lah
+test_128 li e phue hu bong khi lai iu iu iu be su na gin a leh
+test_129 kong bo lang ku to beh khi kha tang tshiu ah
+test_13 tha looh si te hng e kak thau
+test_130 tshiann li ti too tsit siann liau au khai si lau ue to sia
+test_131 lin kiam bo kong iau u si ge jit tsiu siu kua e si kau ma gua ka lin kong giah bak khuann hng i king sik thang kua lah
+test_132 bo lun tian si ia tian tai tak ke siann siann ku ku kam sia ui tai e bu tshin tak ke long su iau
+test_133 ui tsit e kak too khuann tsu tong gi su tah phue thong ke pio tui su tian su tiau e siu lok e tang the kiong tsit kua kian gi
+test_134 khi lai tsiah pong bo
+test_135 gua kong buah e to bua ie lah
+test_136 long si li tsit e tua khoo tai tsiah e ka gua senn tsit e khong kiann
+test_137 iu tong phing sian sinn iu tong phing sian sinn li na bu tng leh tshue li tshiann kau te ji kui tai sio tan to sia
+test_138 ho
+test_139 to tsit khuan se thau tsui siong thian jian lai be nng kuan tng khi tshi khuann mai
+test_14 mng kiann kuann hoo ho oo
+test_140 a kam a
+test_141 hong bun ah
+test_142 kin lai kue liau an tsuann
+test_143 tsap ji pue a siak phua kam u iau kin
+test_144 na si tsau kang oo e kua leh to si thong koo na si khi tsiah kua leh to si phiang koo tse si kang khuan bo kang sai hu tsuat tui m thang hoo m tioh khi
+test_145 li kong leh
+test_146 tse hoo tsuan se kai bing pang kah tik lin khuann tsai kan lai u put li e ing hiong
+test_147 sim kuann a
+test_148 tsu mue hoo gua tsiah
+test_149 gua a put lah e ing tsit su
+test_15 siann mih thau loo e pi tsit lo khah ho
+test_150 li e hak giap khah iau kin
+test_151 ah iah m si lah
+test_152 hua tso bu hing tshoo tshu khan ting ti tai uan hian tai si te sann tsap jit ki
+test_153 siunn beh hoo se kai koh khah uan bi siunn beh hoo ka ting koh khah hing hok siunn beh hoo senn mia koh khah tshiong sit soo i
+test_154 kah hit tsam pi tsit tsun ji tsi ke luah hing hok le
+test_155 in ui hue gam tiann tiann su iau huah liau ti liau kue thing hoo i thiann tiu tiuh
+test_156 ho lin peh beh ka ui ui khi lai
+test_157 ti bi kok Porti moo tsing tsok poo tong tng iam e si tsing tshu bin tsu tong the mia tsham suan tsong thong e
+test_158 ti kiat lun tsok tsia kong Obama e iu tiam si i tsu tiong su iong king tse kah gua kau e lik liong
+test_159 gua khuann be tshut lai gua sia e tsok bun si to tsit tiam bo ho
+test_16 hit tui ang a boo oh e si tsing phai e pu lu su thiau kah tsiann ho khuann
+test_160 khue na e bo kuainn ah
+test_161 ah i to kau hoo li tsiau koo honnh
+test_162 tsia ping khui mng lo tshia tsin tsing tshiann tsu i tshia siunn kah gueh tai tiong e phang m thang lak bue phang lin
+test_163 C tso tai gi bun bun ku e hun thia Pusin li iong gi huat tshiu Pusian tshui kai tsin gi su tah phue e tsing khak lut
+test_164 m sik phinn e ian guan tso khi lai ma bo kai khuai lok loo pinn e ke iu kui jit ing sian sian
+test_165 iau kiu khah ho e sia hue tsing tshik
+test_166 gun kiann tshing IS a lo e kam e sai hoo gun tshi tshing
+test_167 tsiong giap soo kam hik po ju si tong king ik kiap kiu tshut bu ki tshu kai huai si kia sing thann kai
+test_168 kak hue a li u iann tsiok sui e liau gun long tsiok him sian tsiok kah i li liok un tong sann khui tshui ka o lo
+test_169 ah li me gua thoo lui si li long tioh gua e neh
+test_17 hainnh gin a lang u hinn bo tshui m ho oo peh mng
+test_170 i tsai e too sang kai u tsun giam kah tsit ma e bo siann kang khuan
+test_171 u ki hue e ti lak kue te i tsing tat sing hiap gi
+test_172 tiann tiann lok loh khi tshan te
+test_173 m bian bua hiah penn
+test_174 a peh
+test_175 koh sann tso si hioh khun
+test_176 kam kak khi lai na e u tam poh a iu tshiu guan lai khuain lok e kuan in m si tso siann mih tai tsi
+test_177 e khi tshit tioh lang e i su
+test_178 hai ang tai gi bun hak gueh khan te tsit pah khong ji ki
+test_179 li kiann loo nai kuai kuai kam si khi uaih tioh
+test_18 na mng kong tsue kin sua loh lai kam ko e u hong thai siong tsio tsit si goo kang si bo khuann e lah guan tsiong ping iu ing kai si bian huan lo
+test_180 i koh sia kong tng tso phai ti tsuan se kai sit khi khuan ui kau ting iu koh kong ue u siann
+test_181 mai a an ne lah
+test_182 sat bak a ti tsa tsing si siann mih khuan lang leh tsiah e
+test_183 i tsing li tai gi su lui tsong si tse si tua kang ting ma su iau siong se e kui ue
+test_184 thau ke ah m thang lah
+test_185 li tsai khi si a pin tua khi lai khi hueh
+test_186 ah tsit nia iunn tsong tsiok sui e
+test_187 si tsi e sim khah kam e tang tsha ti sann tsi e tshiu ki a lai bin
+test_188 Slaits sin bun bang tsam e phing lun ka Gimial poo i jin ui tsin u si tai i gi
+test_189 siong bue hit phinn suah hi e thau tsing tsit puann si ji khong khong pat ni sia e tu tu si to tng tshut pan hit tsit tang
+test_19 thing loh lai e si sim lai kam u buan tsiok e kam kak sing khu na kiann liau siunn kin
+test_190 lak bi lai hong hiong
+test_191 oo sui a bai a
+test_192 ping siong si khang khue tso kah puann me tsiah png kuan si na phue tian nau
+test_193 ho un lah
+test_194 li kam u ing thang ka gua tau siau kai tsit e mai khi siong su si e e a si to tsit siang
+test_195 beh iong ing bun kah lang koo thong e si tsun li iong tsia e gi su tau tshut tsit ku lan liah tso e thong e ing bun ku m koh kong ing gi e lang kho ling sa bo niau a mng
+test_196 thann kai tshu huai tsuan ki thann hong te tsong phoo sat pun guan king
+test_197 thinn khi tua kuann a thah tsit nia oo ba khah ho
+test_198 ti leh koo tsa si tsun pian tong long e kap tsit liap mue a kah tsit te tha khu ang
+test_199 pua piann tioh tsun pi tai sing tshiang kui ki tsing lang thiann hun bing su au bo inn tiunn
+test_2 m na si lan hian tai tai gi lang o thah lian the lai kai e pian tsiah ma hue hue tsit tsiong iong ji huat siunn kue i guat sit tsai put kho tshu
+test_20 kho ling bo huat too tsun si sit le
+test_200 jip khi
+test_201 tng lai ah
+test_202 jut kik hua tui khong e bok tik ki sit si po tsing i ka ti tsiang ak kok ka e khuan lik
+test_203 kin leh kin leh ah ha puah loh khi ah
+test_204 bian koh pian han kah ni te li tsinn to hai gua lah
+test_205 ti hia khuann e lang iah si sam sam ngoo ngoo tshinn tshi tsng tsng
+test_206 gua u khuann tioh
+test_207 peh pah khong lak phinn iah gam tsioh iu huat tian kin OPEC te ui put po
+test_208 tsit e ki khi lang e TIS si iong IS IS ah si thau khoo thong thu tso e
+test_209 tshin tshiunn han lo poo hun e ong lai am kue tsu pun ing kai si tsit e su
+test_21 tsit ma si guan tsu bin tsok gi ng bang bi lai kheh ka gi tai gi long u ki hue
+test_210 i si tsit e tsin noo sit e sian sinn lang
+test_211 bo ka li phian Fre me tshai kue poo sit tsai u kau ho iong e lah na tsun kong li u su iau honnh e tang ui gua tsia the kui te a tng khi lu khuann mai
+test_212 li ka sing ua e tiong sim khng ti to ui bo tai tsi thang tso e si li kam e khang hi tsit e lang e si
+test_213 tak ke tsiah tui gua lai sann lau tshut king tua thiann pan li ting ki tshiu siok thuan the hing li thok un
+test_214 tshiann mng e te to tsit ku e kong huat lan tai gi be an ne kong
+test_215 e sai tsio tsinn ah si be saih
+test_216 bu ah li khuann leh tsiok sui tsiok koo tsui e iunn tsong neh lang beh ti tsit su lah tsau gin a ki tui po le tu lai te
+test_217 sit le ooh
+test_218 li tsit e ho me meh
+test_219 a tsi lang kheh kheh khi khi
+test_22 koh leh khi sing te ua beh loo si
+test_220 ha
+test_221 tsit tsun hoo lan theh lai liah siu khi e tsiau a
+test_222 thau ke gua na u hiah san IS e gua na tshing e lueh
+test_223 mai an ne bo tai bo tsi to ka lang phng
+test_224 i kai piak kian siau tai i sing kau kiat kim kong tong kui lo ik e po hiam kim hoo phian liau liau
+test_225 ah
+test_226 be li siunn kheh khi lah
+test_227 tui put tsu lah gua m tsai to lo tik sit tioh li honnh soo hue a tsiann se ji an ne ka in
+test_228 kin a jit e ting hun to honnh kam e sai tshiann li the gua ka tsit kua tong tshong an nai khi in e ui a ho bo
+test_229 na bian siong pan to u tsinn gua sui si thau loo
+test_23 kong ue tioh tsing king m thang hi hi tshio
+test_230 tu tsiah kong hng lai u tsiann tse lang ti hiah sng phoo khe mong
+test_231 an ne siu kai u e bo bun te poo hun kho ling u bun te
+test_232 au piah na bo lo ui hue ka thenn tiau leh tho tik biau khu e tsiu giap hoo gu tiong sim kam kann an ne luan bu
+test_233 i kah te sann liap inn a ma tsiah tsiah loh khi na tsiah koh na o lo kong ua ah gua tsu tshut si kau tann m bat tsiah kue tsiah ni phang e inn a neh
+test_234 li tso ho e PBC sing kia tsit hun hoo gua phinn phang tsit e ho bo
+test_235 a tsui peh a sang hoo gua sann tsap pau thng a
+test_236 gua hiong i suat bing hit kiann tai tsi
+test_237 sian senn i tsit kui kang liam mi hua kuann liam mi hua luah kam e sit tioh ma la li a
+test_238 ai siong sin ka ti it ting phann e tioh lam ping iu
+test_239 e tse a u lang khah tian ue lai kong siann mih tsit ko gue ti tiam lai lu tse CB lu tshiau kue tsit tshing khoo to sang ho khang
+test_24 sin niu sin niu sui tang tang khoo te ho ho bo phuah khang sin long pue a phang kuan kuan kiann sun tai tai tiong tsiong guan
+test_240 lan kin lai tsiah png lah
+test_241 tsiu hoo gua koh lin kui pue a ho bo
+test_242 tsan sing tsia o lo i kiann bu sit loo suann m koh kiong ho tong ti kok hue ka te tse
+test_243 hiong hiong u tsit e lang ka i io tsing sin i bak tsiu ngia kim khuann tioh tsit e bin tshiunn tsiok bai e tsa poo lang tsiann tua siann ka huah
+test_244 hun be put tshinn gun tsa boo kiann na u ban it khuann li beh iong siann mih lai pue gua
+test_245 li kam giau koh u ki thann e hong huat lai tsoo tong siu huat
+test_246 kiam piann tsiah kah khuann khann kio
+test_247 i tshi tshi tshng tshng teh hau li kam long bo thiann e
+test_248 tak ke long kau ah lan lai khi thing tshia tiunn tsiunn tshia
+test_249 kiann bi kok Iran kiann ua Saudi kho ka ti bi kok tsue kin kah Iran kai sian kuan he i king in khi tsit
+test_25 a me a si beh khi tai pak ah si beh khi tai lam
+test_250 i kheh kui puann poo long khenn bo tham
+test_251 siang khi tau theh tsit ki phian tsi lai ka ting a giap hoo khui
+test_252 hennh siu lang beh sue si m
+test_253 li tshiu ng liak khi lai sun sua ka li pong hui ap
+test_254 ah gua koh lai tsiau hoo lang kheh lah honnh
+test_255 gua hoo li long lue lah
+test_256 khang ke a lai king to tsit e suan hang siong tho tong
+test_257 li sing kian tshut khi tan kheh ting a
+test_258 ah lang a phah be kuai
+test_259 ah li tsa hng to kio gua khi be tsit kua liau gua khi huan hu lah
+test_26 in to si bo ting SOP tsiah e tak pai long e lau kau mih kiann
+test_260 kuan ho ka ki e tai tsi to ho lan bo tsai tiau kuan pat lang e ing a tai
+test_261 na si a B tiann tiann sing tui tshut hian m koh a au piah e tsiap B i gua e su B thau tsing ma kho ling e tsiap a i gua e su
+test_262 eh kau thong hiah ni bo hong pian
+test_263 tan si tai pak hiah ni hok tsap li tshu tshu tioh a khah se li leh
+test_264 iu un gian tai han ki sut hak inn tsu sin kang ting he tsoo li kau siu
+test_265 tshu lai e khang khue tap tap tih tih tak hang long ai gua tso na tso e liau
+test_266 kiu khong ni tai hua bun e tsu liau khoo ma khai si ti tai uan tiong kok ting soo tsai kian lip
+test_267 tshiu lai theh hit tiunn phue tsua na thak bak sai na thok thut tih
+test_268 tiam tiam
+test_269 tsau kha e thai lu i king pit khui ah ai kha tian ue kio sai hu lai uann
+test_27 thau tsing kong ui tioh pi sian leh sia ho guan na sin nua thau lan to m si to leh go ah si u iann hiah iau i hia e tsiong kim
+test_270 kuann lai khi tian iann inn
+test_271 in e put buan koh kah lai tsu san tsia e tsng kha e put buan hue hap tui sia hue e un ting tso sing thiau tsian
+test_272 tah bong si tshiu na siong sui e si tsun bong tsiong it tsheh khoo tso tsit hue bo kua bo li
+test_273 ing a m gua tsiah ka li lian lok
+test_274 tsiah bo huan ing lin lah
+test_275 eh
+test_276 honnh lai lai lai than sio tsiah than sio tsiah
+test_277 tsit uann png ling ling
+test_278 thiann kong gin a lang khoo u a khah gau tua
+test_279 gua tsit ma tiam ti leh a tsiunn peh e tshu u ing tsiah lai tse lah
+test_28 in ui bo tshu li ham hoo sing e bun te soo i e ing khiong tioh si giam kiat ko e phin tsit
+test_280 e ah tsia long ka ting ting khi lai
+test_281 phang koh tua liap e inn a ooh tsit liap tsit kak gin nng liap nng kak gin sann liap tsiah bian tsinn ooh huah be siann khip in tsit kua kiann loo lang e tsu i
+test_282 kue hai kuan tsin tsing u tsui ah si pak khuan tshiau kue tsit pah CC e ik the long ai to tiau u lai tah to a a ah si pak e ui kim phin ne tshiann tsu tong tan tiau be sai tsah ti sing khu ting
+test_283 nng e lang hiah ni ho suah kiann kau bue bo ua kho ai tshin tshiunn sat bun phue tsing hun na e tsiah ni po
+test_284 thoo kha tu jiu ho kut liu siuh tioh se ji liau liau a kiann
+test_285 si lah gun tsai iann m tioh ah lah
+test_286 tsit e u thiann sim e a i koh ka in ting se sing khu tsit pai phak tah liau au theh ut tau ka u kah tshiunn sin e kang khuan tsing tsha sik tsui u khah sit
+test_287 ah lin peh a m ho ah lah lin tsa boo kiann ui tshinn a tsang ting puah loh lai
+test_288 ui tioh siau loo tshi tiunn tua lak thui sak kik tuan e siau hui tsu gi hoo lang tsit si a to sui tiau ti bo pit iau e khai siau
+test_289 tsit hang tshai lai te u tsham le bong ting le bong bi tsin kau tsin phang
+test_29 sua loh lai beh lai siau kai hue ling ki e an tsuan siat pi to sing mng ti hue ling ki e nng ping sang soo am ti thau khak ting kiu sing i ti i a kha
+test_290 hau tiunn siann mih tai tsi
+test_291 sann tap hue i au to tso sian a siooh m bian tsiah png a hiooh
+test_292 li sing kiann shut khi tan ke ting a
+test_293 pifo jing sann ──mi Cah TCR thau tsing sann tship tsit pah goo pah tship tshing sann tshing hoo tshing le kiong tong su tsoo ke soo ling liat tshut lai thong lu kah sian e thong kue sng thian thong lu tsit ke sut tsoo hut hi kah R nng e thong ke pio long u tshut hian
+test_294 peh khi li khuann mai
+test_295 bo khuann e khai e kue sim
+test_296 sun sun leh
+test_297 li hit lo ga suh kam u kuann e u ka suh bi tsau tshut lai
+test_298 in ui siam pi oo tok bai suah tsing tioh ang moo thoo hoo nua kiau tshia e tshia thau thap o tsit e tsin giam tiong
+test_299 kio siann mih mia
+test_3 hai kuan thong kue liau au tsiah khi hau ki sik sio tan si kan na u khah liong e tang khi seh bian sue ke
+test_30 tiam tiam tit pinn a tso bo su jin
+test_300 li khuann mui tsu oo tsiah gau khinn ke tsit ma tsing hui tsiah bat tai tsi gua tui tang ka u kau tai ah lah
+test_301 lan sit pai kui beh pue bong
+test_302 bo lun lu ho li gua i king tsit tui ho tsing phuann
+test_303 kue lai tsit si a lah
+test_304 lai tse lai tse
+test_305 sin lun te tshiann kai sue tsok tsia soo kong lu sing m si tshut si to tsiann tso lu sing si hong kau iok tso lu sing e tsit ku ue i ham tsap hun
+test_306 oo oo a tsit e tua mng honnh koh kah ting khah kuan leh
+test_307 ho i au na si huat sio tshiau kue nng kang tioh ai sui lai kiam tsa oo
+test_308 a sui kah moo a pai thok li the i tshing ka
+test_309 aih ioh
+test_31 li tsit e lau kau li kam bo hun
+test_310 heh heh
+test_311 i tsiok gau kah lang kau pue
+test_312 hun lim kuan koo khenn hiong inn khuan pinn a to u tsit king sann tsap ni kiunn bo ah lauh tiam
+test_313 li tioh ai khun khun hoo pa
+test_314 m thang tshai i
+test_315 un tsiunn si kan tan e pe tshoo ka suan iong
+test_316 lin nng e ti hia si si sut sut si teh kong siannh
+test_317 li siann mih si tsun beh tng khi tai pak
+test_318 P of AB uan sio i P of a sing P of B soo i mi of AB si hu soo
+test_319 eh ah li tsiah ka gua kai mia lah ah lin pe kio tso tsio a kau lah
+test_32 iah gam tsioh iu huat tian kin OPEC te ui put po
+test_320 ma mah bo peh thiann li
+test_321 tong sing hun hap huat hua koh lai khuann o tsiu
+test_322 a ha ah ha a tsiunn peh a a tsiunn peh ah
+test_323 tshian pa lah si gun a kong khah tsa siong ai khuann e hi
+test_324 tsit e ah si hit le
+test_325 gua e sim
+test_326 li tioh ka png tsiah hoo liau
+test_327 li lai kau koo bio e ka lai
+test_328 a pah mai pha au pai m kann ah
+test_329 gua khuann tioh ti a
+test_33 he tian tong tshia honnh tsau be tin tang in kai si bo tian a ai ka bat te lih theh tshut lai tshiong tian tsit e
+test_330 oh ka lin peh tiam beh kong
+test_331 suann ting long ta bu peh bong bong siann mih long khuann bo
+test_332 he thai e sai gua iau be tsiah tioh neh u lang bo huann hi leh tua siann huah
+test_333 ke lang bio khau e thian pu lah siong u mia
+test_334 ho ah inn a i king tsiah liau ah kin a jit to kau tsia ui tsi looh han tsing li an ne ka tak ke kong
+test_335 li iong i e kua siann kah hian a bi miau e suan lut ka ping an ham hing hok thuan tat tshut khi
+test_336 si tsap si phinn sin ho lam jin bo beh tau senn uann tsi it ma ma e kam tong
+test_337 tsit siang bue a
+test_338 piau tat ka ti e tsu tiunn tshu bi ah si kong tsit kua tshioh khue
+test_339 in tau e tian hue long ua e loo B e ke tsiann kng e
+test_34 kau tann iau u tsiok tse siau lian lang e tuann gi tah khi liok tsa boo gin a
+test_340 tioh ai pe bu tsu hun ai u jin ke e lang kai siau tui hong tsa poo ah m tsai him a hoo luan luan kau
+test_341 a bu gua ia m si sann hue gin a na e be hong si m
+test_342 tsiok tse lang leh io a lak a e ti siann mih si tsun to tann
+test_343 gua e sing khuann lah
+test_344 o tsiu kok hue bat ti ji khong it ji ni piau kuat tong sing hun hap huat hua e gi te tsan sing phai su ka thng khoo
+test_345 lai tshiunn kua
+test_346 gua thai ai li soo i tsiah tsiah ni tshong pong
+test_35 tsit uann thoo tah thng khong kah mi mi mi tsiann ho loh au
+test_36 u lang tit leh bo u lang ti leh bo ah
+test_37 tse to tso sing m na si kann gak siunn kheh hui iong siunn kuan kuan li siunn khun lai nia nia tsiah tse lang khi kuainn
+test_38 Soo ni tshiu ki a kam u ho iong
+test_39 lai hang lang o lo u hing ui gua hang e kong gua ok khiak khiak
+test_4 tsing lang thiann han tsing li an ne kong long kuann kin tann thau khuann suann ting tsit e khuann tak ke sim lai long am huah tsit siann gua khoo ah suann e tsiann tshiu ping u iann kiam tsit puann khi ah
+test_40 kau tann guan tsu bin e tang iong ka ti e bu gi sia kong bun khah sit si tsuan hing tsing gi koh tsai huah tsit tua poo
+test_41 hngh mh tsiann niau
+test_42 lai kai jip tsoo tsih ah si tse tshai po hing
+test_43 gun ping iu liam mih to beh lai a tsiah ma huan li the gua io bih tsit kua mih kiann tshiann lang tsiah
+test_44 si sit giam poo soo
+test_45 li si tui to ui tit tioh tsit tsiah ang a e
+test_46 ho ho ho lah a biau kua e lan to be tsit su ho lah mai hau honnh kuai
+test_47 khah kong ma he
+test_48 han tsing li tsim tsiok ka siau lian ke khuann khuann leh ka kong siau lian eh li tsai iann bo gua e inn a tsiah sann liap bian tsinn neh
+test_49 siann mih lang kong li u tshin ma khuann i si m
+test_5 oo bah sang li ho li beh ai e mih kiann ti tsia
+test_50 kiann
+test_51 oo to bai si tsiann ping siong e kau thong kang khu tsuan tai uan tshue bo lang be hiau khia oo to bai e
+test_52 Sortianl e phah tsiat long si ke e kin pun bo siok gua tse
+test_53 lan gua ko sann pit giap e ing gi tsuan giap thang ng mi
+test_54 tui Putin lai kong tse tai piau i kiong nge tui khong bi kok ka au tsiu tit tioh sing li
+test_55 senn ang eh kau guan si to tsit e
+test_56 lai khui mng leh
+test_57 tui in tshu lai tshiong kik si siann khuan in tiong tuan e jin sing beh an tsuann
+test_58 it ting ai e lah
+test_59 ong thai thai lin sin pu sit tsai tsin gau tsu ka kui to phang kong kong
+test_6 iau m koh u lang ui tioh ko jin e li ik pang hong siann beh lai sio tsinn
+test_60 tsit te phang lai te khu li mu iau koh sio sio gin a lang un ai tsiah e
+test_61 tsu tsiah e lang ka i be tsit te thoo tho hi it hiam siunn tse thua to kuann khi hing hoo lang
+test_62 kau a aih onnh kio
+test_63 gua ka ti lai to e sai ah
+test_64 gua hit tai tshia tsue kin tsiah ka si liap thai iah tsuan poo uann kue
+test_65 sann siu siu hoo ho kin khi khun
+test_66 ling gua pun sit giam tshai iong kan hua e su lui kan ta hun tua lui tong su mia su hing iong su ting ting
+test_67 m ha hah hah hah
+test_68 tsui phang be khi li kho ling ai tau tsit tai phang phu lai phang
+test_69 tsit ma ma si kang khuan mah
+test_7 i na si tong suan ma e pi iau kiu sit hian sing lok tui king tshat kai kik lai kong tse i king si tsit e sing li
+test_70 mui tsit e lang long si tok lip be mui tsit e lang long u ka ti e sing gua king giam kah ti sik
+test_71 tsu hong be tang pai thik sin lo ah si khi in thau loo e lang kong tai gi
+test_72 lan tsap ni tsing ka jip kah VTO be be mih kiann khah bo khioh sue
+test_73 bo jim ho e kuan he
+test_74 iau m koh tai uan tian iann si gua e senn mia bo lun an tsuann gua ing uan long be hong khi
+test_75 gua e ka a kong tshua lai khi tshai tshi a
+test_76 eh i tsinn kuai leh tue lang tsau ah
+test_77 na tshuan khui e hiunn tong jian si he ku
+test_78 hiong tsing khong
+test_79 gua
+test_8 an ne bin a tsai kam kang khuan si tsit liap tsit kak gin nng liap nng kak gin sann liap tsiah bian tsinn leh u lang an ne mng
+test_80 u i guan ah si u kho ling ti li khong it liok ni tsham suan tsong thong e kiong ho tong jin su
+test_81 bo gua sit le
+test_82 tse tshe phainn a bin ting u sann e tsiu tsiu sai sik tsui long bo kang
+test_83 tsi put ko tse ka lian bing lai te ki thann tong phai e i kian u sio khan lian
+test_84 tshin tshiunn tinn kueh pat po png ting ni tsue tsiah mih long ai iong tsut bi lai tso
+test_85 tso tsit kua sin the bo tiann e kah i e tai tsi phoo phoo thann thann tsiong i tsing gik thai sin the e giah
+test_86 a san a pa a me kue ah
+test_87 tsit gua tsit kha su li pah phah ka tsuah
+test_88 li thau mng tshui tshiu peh lau khoh khok ah iau koh siunn beh kah lang tshua sui boo ooh
+test_89 siunn beh ka ti khuann V oh to ai sing khi be tsit tsoo khah ho e GP iu sat pi
+test_9 tit jit pun sa khut la khui e hit tang tsun kui phiann ang ki ki kai sui
+test_90 tsin tshing kui kang gua kau tsing tshik e sia tiunn te Ri Rastoo tu ho ma sia bun tsiunn ki tshut tsit tsiong tso huat  u tsin tse hong hiam pau kuah bo huat too ting biong su thai e kiat ko lai po tsing bi kok e li ik sim tsi siong bue ma si tioh the pat lang tshit kha tshng
+test_91 soo i gua be kah li ke kau
+test_92 phinn i hiong e sng tshoo sim liah thang huenn pang hoo tshoo tsong e u hit kang tsiong li pho jit kua e bang
+test_93 ah beh siann poo
+test_94 an ne tso kam oo khe
+test_95 an ne lah
+test_96 i sing jin iau koh u tsin tng e loo ai kiann
+test_97 gua kong li tsit e koo mng kau ah gun tua e leh kah li kong ue li tsit ma si siann thai too ah
+test_98 u gua khiong poo to tshin tshiunn Clinton si gueh ji kau ti niu iok e Clandia tai hak tsit tiunn ian suat kong e
+test_99 goo tiam ji a N V N su tsoo
