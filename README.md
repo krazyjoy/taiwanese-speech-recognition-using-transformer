@@ -1,4 +1,22 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/5cu7ZNPo)
+# 台語語音辨認任務
+- https://www.kaggle.com/competitions/deep-learningnycu-2023-wav2vec
+- 期間: 4/15/2023 - 5/7/2023
+- 資料集: 單人女生聲音，台語語音音檔 (https://suisiann-dataset.ithuan.tw/)
+    - 資料格式:  `.wav`檔
+    - 採樣率: 32 bits
+    - 聲道: mono
+    - 頻率: 22kHz
+- 輸出: 轉文字台羅拼音
+
+## Models Using ESPnet Toolkit
+- what is ESPnet? An end-to-end speech processing toolkit.
+    - Tasks covered by ESPnet: end-to-end speech recognition, text-to-speech, speech translation,...
+    - Deep Learning Engine: Pytorch
+    - Data Processing Style & Feature Extraction: Kaldi
+- How to use ESPnet: use recipes to complete setup for speech processing experiments 
+
+
 # AutomaticSpeechRecognition ESPNET-AISHELL
 
 
