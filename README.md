@@ -27,6 +27,8 @@
 | Convolution Module| 1           |  0           |
 
 
+- Macaron Style: to combine feed forward and multi headed self attention
+    ![Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View](https://arxiv.org/abs/1906.02762)
 
 
 ## 前處理
