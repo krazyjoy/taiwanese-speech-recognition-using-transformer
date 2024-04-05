@@ -19,8 +19,14 @@
 
 # AutomaticSpeechRecognition ESPNET-AISHELL
 ### Model
-Conformer v.s Transformer
-- Multi-Head Attention is sandwiched by 2 Feed Forward Module v.s. Multi-Headed Attention concatenated with Feed Forward Module
+ v.s Transformer
+|                 |  Conformer    |  Transformer |
+|-----------------|---------------|--------------|
+| Feed Forward    | Multi-Head Attention is sandwiched by 2 | Multi-Headed Attention concatenated with |
+| Convolution Module| 1           |  0           |
+
+
+ e v.s.  Feed Forward Module
 - x v.s 1 more Convolution Module after Self Attention
 
 ## 前處理
