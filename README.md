@@ -38,6 +38,13 @@
     ![Model Hyperparameters](https://github.com/krazyjoy/taiwanese-speech-recognition-using-transformer/blob/master/images/conformer-sizes.png)
 
 
+- Streaming Fashion (Streaming Conformer)
+    - designed to process audio data in a streaming fashion
+    - instead of process entire sequences of input data at once, which can lead to latency issues
+    - divide input into smaller chunks or frames to process them sequentially
+    - mechanisms: autoregressive decoding or chunk-wise processing
+    - enable efficient streaming inference
+ 
 
 ## 前處理
 1. 濾掉transcript.txt的非utf-8符號
