@@ -9,7 +9,7 @@
     - 頻率: 22kHz
 - 輸出: 轉文字台羅拼音
 
-## Models Using ESPnet Toolkit
+## Using ESPnet Toolkit
 - what is ESPnet? An end-to-end speech processing toolkit.
     - Tasks covered by ESPnet: end-to-end speech recognition, text-to-speech, speech translation,...
     - Deep Learning Engine: Pytorch
@@ -18,7 +18,10 @@
 
 
 # AutomaticSpeechRecognition ESPNET-AISHELL
-
+### Model
+Conformer v.s Transformer
+- Multi-Head Attention is sandwiched by 2 Feed Forward Module v.s. Multi-Headed Attention concatenated with Feed Forward Module
+- x v.s 1 more Convolution Module after Self Attention
 
 ## 前處理
 1. 濾掉transcript.txt的非utf-8符號
