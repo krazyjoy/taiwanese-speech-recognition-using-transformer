@@ -22,6 +22,7 @@
 
 |                 |  Conformer    |  Transformer |
 |-----------------|---------------|--------------|
+| Emphasis        | CNN (local) + Transformer (global context) | global Context |
 | Feed Forward    | Multi-Head Attention is sandwiched by 2 | Multi-Headed Attention concatenated with |
 | Convolution Module| 1           |  0           |
 
