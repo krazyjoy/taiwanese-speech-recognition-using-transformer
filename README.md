@@ -19,15 +19,14 @@
 
 # AutomaticSpeechRecognition ESPNET-AISHELL
 ### Model
- v.s Transformer
+
 |                 |  Conformer    |  Transformer |
 |-----------------|---------------|--------------|
 | Feed Forward    | Multi-Head Attention is sandwiched by 2 | Multi-Headed Attention concatenated with |
 | Convolution Module| 1           |  0           |
 
 
- e v.s.  Feed Forward Module
-- x v.s 1 more Convolution Module after Self Attention
+
 
 ## 前處理
 1. 濾掉transcript.txt的非utf-8符號
