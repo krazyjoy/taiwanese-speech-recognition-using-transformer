@@ -27,9 +27,11 @@
 | Convolution Module| 1           |  0           |
 
 
+![Conformer-versus-Transformer](https://github.com/krazyjoy/taiwanese-speech-recognition-using-transformer/blob/master/images/transformer_conformer_comparison.png)
 - Macaron Style: to combine feed forward and multi headed self attention
-    ![Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View](https://arxiv.org/abs/1906.02762)
+    [Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View](https://arxiv.org/abs/1906.02762)
 
+- Hyper Parameters of Conformer
 
 ## 前處理
 1. 濾掉transcript.txt的非utf-8符號
