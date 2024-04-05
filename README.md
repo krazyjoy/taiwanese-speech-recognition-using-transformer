@@ -20,18 +20,24 @@
 # AutomaticSpeechRecognition ESPNET-AISHELL
 ### Model
 
-|                 |  Conformer    |  Transformer |
+|                 |  Transformer  | Conformer    |
 |-----------------|---------------|--------------|
-| Emphasis        | CNN (local) + Transformer (global context) | global Context |
-| Feed Forward    | Multi-Head Attention is sandwiched by 2 | Multi-Headed Attention concatenated with |
-| Convolution Module| 1           |  0           |
+| Emphasis        |  global Context | CNN (local) + Transformer (global context) |
+| Feed Forward    |  Multi-Headed Attention concatenated with | Multi-Head Attention is sandwiched by 2 |
+| Convolution Module|   0           |1           |
 
 
 ![Conformer-versus-Transformer](https://github.com/krazyjoy/taiwanese-speech-recognition-using-transformer/blob/master/images/transformer_conformer_comparison.png)
+
 - Macaron Style: to combine feed forward and multi headed self attention
     [Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View](https://arxiv.org/abs/1906.02762)
 
+    ![Macaron Style](https://github.com/krazyjoy/taiwanese-speech-recognition-using-transformer/blob/master/images/macaron-style.png)
 - Hyper Parameters of Conformer
+
+    ![Model Hyperparameters](https://github.com/krazyjoy/taiwanese-speech-recognition-using-transformer/blob/master/images/conformer-sizes.png)
+
+
 
 ## 前處理
 1. 濾掉transcript.txt的非utf-8符號
